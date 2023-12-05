@@ -1,0 +1,19 @@
+{
+    "hosting": [
+      {
+        "target": "your-angular-app-name",
+        "public": "dist/your-angular-app-name",
+        "ignore": [
+          "firebase.json",
+          "**/.*",
+          "**/node_modules/**"
+        ]
+      },
+      {
+        "target": "tecno-gestion",
+        "public": ".",
+        "frameworksBackend": {}
+      }
+    ]
+  }
+  

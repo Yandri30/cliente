@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "inventario-592c0": {
+      "hosting": {
+        "tecno-gestion": [
+          "inventario-592c0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "inventario-592c0"
+  }
+}
